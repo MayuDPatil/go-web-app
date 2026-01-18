@@ -8,7 +8,7 @@ image:
   repository: mayuridp/goproject
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "21106562804"
+  tag: "21107205960"
 
 ingress:
   enabled: false
